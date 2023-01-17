@@ -29,3 +29,8 @@ ___________________________________
 
 - Material UI icons:
 `https://mui.com/material-ui/material-icons/`
+
+- Material Design for Bootstrap 5 & React 17:
+`https://www.npmjs.com/package/mdb-react-ui-kit`
+
+
