@@ -1,9 +1,9 @@
-# Dating App Frontend
-By Rafaela, Evin, & Emon
+# BookClub App BackEnd -
+Developer: Rafaela Hollanda
 ____
 
 ## Technologies used on the Frontend:
-- React, CSS/Bootstrap, Heroku
+- React, CSS/Bootstrap, Heroku, Material UI
 
 ## Technologies used on the Backend:
 - Spring/Java, Heroku
