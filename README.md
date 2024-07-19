@@ -10,17 +10,19 @@ ____
 ___
 
 ## The Project
-- 
+- BookClub is a web application developed out of scratch with a language I taught myself for the capstone project of General Assembly Bootcamp. I've chosen to work with Java and Spring for my backend.
+With this app the user is able to either get ideas for books, or use the platform to keep track of books to read or the ones they've already read.
 
-## Difficulties:
-### bugs:
-- 
+
+<!-- ## Difficulties:
+<!-- ### bugs:
+-  --> 
 
 ## What I would have liked to add:
-- 
+- In the future I would like to refacture the possibility of adding an user login, so the books displayed can be specific for each user.
 
-## Project deployed on Heroku:
-<!-- `https://singular-druid-6c25ce.netlify.app/` -->
+## Project deployed on Netlify:
+`https://velvety-kelpie-5e2788.netlify.app/`
 ___________________________________
 
 ## Sources:
